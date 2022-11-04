@@ -48,6 +48,3 @@ function footer() {
             element.style.left = left + "px";
         });
     });
-};
-
-footer();
