@@ -50,5 +50,3 @@ function footer() {
         });
     });
 };
-
-footer();
